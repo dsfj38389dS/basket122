@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dsfj38389dS/basket122/static/css/main.e9a7d640.chunk.css",
+    "main.js": "/dsfj38389dS/basket122/static/js/main.f517fdfb.chunk.js",
+    "main.js.map": "/dsfj38389dS/basket122/static/js/main.f517fdfb.chunk.js.map",
+    "runtime-main.js": "/dsfj38389dS/basket122/static/js/runtime-main.0293485c.js",
+    "runtime-main.js.map": "/dsfj38389dS/basket122/static/js/runtime-main.0293485c.js.map",
+    "static/js/2.08bea278.chunk.js": "/dsfj38389dS/basket122/static/js/2.08bea278.chunk.js",
+    "static/js/2.08bea278.chunk.js.map": "/dsfj38389dS/basket122/static/js/2.08bea278.chunk.js.map",
+    "static/js/3.6ef99d5b.chunk.js": "/dsfj38389dS/basket122/static/js/3.6ef99d5b.chunk.js",
+    "static/js/3.6ef99d5b.chunk.js.map": "/dsfj38389dS/basket122/static/js/3.6ef99d5b.chunk.js.map",
+    "index.html": "/dsfj38389dS/basket122/index.html",
+    "static/css/main.e9a7d640.chunk.css.map": "/dsfj38389dS/basket122/static/css/main.e9a7d640.chunk.css.map",
+    "static/js/2.08bea278.chunk.js.LICENSE.txt": "/dsfj38389dS/basket122/static/js/2.08bea278.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0293485c.js",
+    "static/js/2.08bea278.chunk.js",
+    "static/css/main.e9a7d640.chunk.css",
+    "static/js/main.f517fdfb.chunk.js"
+  ]
+}
